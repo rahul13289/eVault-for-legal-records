@@ -1,4 +1,4 @@
-# Developing eVault for maintaining legal records
+# DApp to store legal record file 
 
 # INTRODUCTION:
 
